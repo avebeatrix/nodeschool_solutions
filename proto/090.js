@@ -4,7 +4,12 @@
 // -> When called with 'new', the Vehicle constructor function should return 
 //    an object of your own making, not the implicit 'this'.
 
-__
+function Robot(){
+	
+}
+function Vehicle(){
+	return {}
+}
 
 
 // ------------------------------------------------
