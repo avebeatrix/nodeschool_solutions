@@ -1,3 +1,5 @@
+//To reject or not to reject
+
 let promise = new Promise(function (fulfill, reject) {
     fulfill('I FIRED');
     reject(new Error('I DID NOT FIRE'));

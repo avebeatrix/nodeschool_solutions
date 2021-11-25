@@ -1,3 +1,5 @@
+//Promise after promise 
+
 let promise = first();
 promise.then(secret => {
     return second(secret);

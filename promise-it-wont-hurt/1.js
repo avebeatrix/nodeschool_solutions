@@ -1,3 +1,5 @@
+//Warm up  
+
 'use strict';
 
 // Set a timeout of 300ms

@@ -1,3 +1,5 @@
+//Shortcuts
+
 let promise = Promise.resolve('YOU ARE GOOD');
 promise.then(console.log);
 

@@ -1,3 +1,5 @@
+//Always asynchronous
+
 let promise = new Promise(function(fullfill, reject){
     fullfill('PROMISE VALUE');
 })
